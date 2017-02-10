@@ -1,0 +1,19 @@
+{
+    "name": "vascocomposer/composer_practice",
+    "description": "Practice",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "vascomposer",
+            "email": "carlosa.master2000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
